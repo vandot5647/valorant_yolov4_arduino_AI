@@ -3,3 +3,5 @@ Implementasi Yolov4 OpenCV CUDA GPU pada game Valorant menggunakan Arduino Leona
 
 In game mendapatkan 100FPS++ berbeda menggunakan Yolov5 PyTorch hanya mendapatkan 50FPS+-
 ![image](https://github.com/vandot5647/valorant_yolov4_arduino_AI/assets/95358566/cf470ef9-141e-49a4-901a-2064d248c004)
+
+![Arduino](https://github.com/vandot5647/valorant_yolov4_arduino_AI/assets/95358566/94a375dc-f314-4fd0-9558-b83fd13eca0b)

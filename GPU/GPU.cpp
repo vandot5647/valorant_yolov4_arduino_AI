@@ -1,4 +1,4 @@
-#include <opencv2/opencv.hpp>
+#include <opencv2/opencv.hpp> // custom contrib dlu
 #include <Windows.h>
 #include <stdint.h>
 #include <iostream>
@@ -9,8 +9,8 @@
 constexpr float CONFIDENCE_THRESHOLD = 0;
 constexpr double NMS_THRESHOLD = 0.4;
 constexpr int NUM_CLASSES = 2;
-constexpr float AX = 35.0;
-constexpr float AY = 58.0;
+constexpr float AX = 0; // default 50
+constexpr float AY = 0; // default 50
 
 const cv::Scalar colors[] = {
     {0, 255, 255},
@@ -28,11 +28,11 @@ int main()
     std::vector<std::vector<int>> results, clear_results(20, std::vector<int>(4)); //20 x 4
     std::string move;
     std::wstring comport;
-    int count, closest_index, FOV_x = 400, FOV_y = 400, screen_width = 1920, screen_height = 1080;
+    int count, closest_index, FOV_x = 400, FOV_y = 400, screen_width = 1920, screen_height = 1080; 
 
     std::vector<std::string> class_names;
     {
-        std::ifstream class_file("D:\\coco.labels");
+        std::ifstream class_file("D:\\coco.labels"); // taruh di D:\\
         std::string line;
 
         while (std::getline(class_file, line)) {
@@ -162,7 +162,7 @@ int main()
             double distanceX = std::abs(current.x - FOV_x / 2);
             double distanceY = std::abs(current.y - FOV_y / 2);
 
-            if (distanceX < AX && distanceY < AY)
+            if (distanceX < && distanceY < )
             {
                 targetFound = true;
 
@@ -184,7 +184,7 @@ int main()
 
             if (move != std::to_string(FOV_x / 2 * -1) + ":" + std::to_string(FOV_y / 2 * -1))
             {
-                if ((GetKeyState('P') & 0x8000) || (GetKeyState('O') & 0x8000)) // Menambahkan kondisi GetKeyState('O')
+                if ((GetKeyState('P') & 0x8000) || (GetKeyState('O') & 0x8000)) 
                 {
                     WriteFile(hSerial, &move, sizeof(move), NULL, NULL);
                 }

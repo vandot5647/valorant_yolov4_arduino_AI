@@ -1,0 +1,39 @@
+﻿  GPU.cpp
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244:         with
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244:         [
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244:             _Tp=float
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244:         ]
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244:         and
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244:         [
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244:             _Tp=int
+C:\opencv\vs\GPU\GPU.cpp(109,73): warning C4244:         ]
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244:         with
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244:         [
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244:             _Tp=float
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244:         ]
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244:         and
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244:         [
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244:             _Tp=int
+C:\opencv\vs\GPU\GPU.cpp(109,66): warning C4244:         ]
+C:\opencv\vs\GPU\GPU.cpp(109,48): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\opencv\vs\GPU\GPU.cpp(109,48): warning C4244:         with
+C:\opencv\vs\GPU\GPU.cpp(109,48): warning C4244:         [
+C:\opencv\vs\GPU\GPU.cpp(109,48): warning C4244:             _Tp=int
+C:\opencv\vs\GPU\GPU.cpp(109,48): warning C4244:         ]
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244:         with
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244:         [
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244:             _Tp=float
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244:         ]
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244:         and
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244:         [
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244:             _Tp=int
+C:\opencv\vs\GPU\GPU.cpp(109,33): warning C4244:         ]
+C:\opencv\vs\GPU\GPU.cpp(124,57): warning C4305: 'argument': truncation from 'const double' to 'const float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 576 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GPU.vcxproj -> C:\opencv\vs\GPU\x64\Release\GPU.exe

@@ -4,6 +4,8 @@ Deskripsi
 
 Siapa yang tidak tertarik melihat Computer Vision dipakai saat bermain game?
 Project ini menunjukkan bagaimana YOLOv4 (OpenCV + CUDA) bisa berjalan real-time dengan performa tinggi (100+ FPS) dan diintegrasikan ke Arduino Leonardo R3 + USB Host Shield untuk menghubungkan hasil deteksi ke kontrol game.
+
+Implementasi ditulis dalam bahasa C++ dan di-build menggunakan CMake dengan konfigurasi custom CUDA GPU, sehingga dapat memanfaatkan akselerasi hardware secara optimal.
 ________________________________________
 Berbeda dengan YOLOv5 (PyTorch) yang hanya stabil di kisaran ~50 FPS, implementasi ini membuktikan bahwa optimasi tepat dapat membuat CV lebih responsif di dunia game.
 

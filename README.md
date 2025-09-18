@@ -6,8 +6,11 @@ Project ini menunjukkan bagaimana YOLOv4 (OpenCV + CUDA) bisa berjalan real-time
 ________________________________________
 Berbeda dengan YOLOv5 (PyTorch) yang hanya stabil di kisaran ~50 FPS, implementasi ini membuktikan bahwa optimasi tepat dapat membuat CV lebih responsif di dunia game.
 Kenapa Menarik?
+
 •	Bukan sekadar tugas kampus — project ini terus dikembangkan, tidak berhenti hanya sekali pakai.
+
 •	CV + Game = kombinasi seru — belajar deteksi objek sambil melihat dampaknya langsung ke gameplay.
+
 •	Mendorong upgrade skill — dari basic code hingga pipeline yang lebih layak dipakai individu.
 
 •	Edukasi & referensi — walau tidak saya sebarkan ke publik/awam, project ini bisa jadi gambaran bagaimana CV dapat digunakan di dunia game.
@@ -16,7 +19,9 @@ Catatan
 •	Ini adalah project edukasi & referensi, bukan software siap pakai.
 
 •	Tidak untuk distribusi massal atau penggunaan umum.
+
 •	Kontak: Discord SukiMan#1887 (ID: 472320968942026772).
+
 ________________________________________
 
 Description
@@ -25,14 +30,21 @@ This project demonstrates how YOLOv4 (OpenCV + CUDA) can run in real-time with h
 Unlike YOLOv5 (PyTorch), which remains stable at around ~50 FPS, this implementation proves that proper optimization can make CV much more responsive in gaming environments.
 ________________________________________
 Why It’s Interesting
+
 •	Not just a college assignment — this project keeps evolving, not a one-off.
+
 •	CV + Gaming = exciting combo — learn object detection while seeing the direct impact on gameplay.
+
 •	Skill upgrading — from basic code to a more usable and optimized pipeline.
+
 •	Educational & reference — although not released for public use, this project serves as a reference for how CV can be applied in the gaming world.
 ________________________________________
 Notes
+
 •	This is an educational & reference project, not ready-to-use software.
+
 •	Not intended for mass distribution or general usage.
+
 •	Contact: Discord SukiMan#1887 (ID: 472320968942026772).
 ________________________________________
 

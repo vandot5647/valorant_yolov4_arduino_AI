@@ -1,10 +1,12 @@
 # valorant_yolov4_arduino_AI
 
 Deskripsi
+
 Siapa yang tidak tertarik melihat Computer Vision dipakai saat bermain game?
 Project ini menunjukkan bagaimana YOLOv4 (OpenCV + CUDA) bisa berjalan real-time dengan performa tinggi (100+ FPS) dan diintegrasikan ke Arduino Leonardo R3 + USB Host Shield untuk menghubungkan hasil deteksi ke kontrol game.
 ________________________________________
 Berbeda dengan YOLOv5 (PyTorch) yang hanya stabil di kisaran ~50 FPS, implementasi ini membuktikan bahwa optimasi tepat dapat membuat CV lebih responsif di dunia game.
+
 Kenapa Menarik?
 
 •	Bukan sekadar tugas kampus — project ini terus dikembangkan, tidak berhenti hanya sekali pakai.
@@ -16,6 +18,7 @@ Kenapa Menarik?
 •	Edukasi & referensi — walau tidak saya sebarkan ke publik/awam, project ini bisa jadi gambaran bagaimana CV dapat digunakan di dunia game.
 ________________________________________
 Catatan
+
 •	Ini adalah project edukasi & referensi, bukan software siap pakai.
 
 •	Tidak untuk distribusi massal atau penggunaan umum.
@@ -23,8 +26,8 @@ Catatan
 •	Kontak: Discord SukiMan#1887 (ID: 472320968942026772).
 
 ________________________________________
-
 Description
+
 Who wouldn’t be curious about seeing Computer Vision applied in gaming?
 This project demonstrates how YOLOv4 (OpenCV + CUDA) can run in real-time with high performance (100+ FPS) and be integrated with an Arduino Leonardo R3 + USB Host Shield to map detection results into in-game controls.
 Unlike YOLOv5 (PyTorch), which remains stable at around ~50 FPS, this implementation proves that proper optimization can make CV much more responsive in gaming environments.
@@ -47,7 +50,6 @@ Notes
 
 •	Contact: Discord SukiMan#1887 (ID: 472320968942026772).
 ________________________________________
-
 
 2022-2024
 ![image](https://github.com/vandot5647/valorant_yolov4_arduino_AI/assets/95358566/cf470ef9-141e-49a4-901a-2064d248c004)

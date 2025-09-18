@@ -51,7 +51,7 @@ Notes
 •	Contact: Discord SukiMan#1887 (ID: 472320968942026772).
 ________________________________________
 
-2022-2024
+This project has been continuously improved from 2022 to 2024
 ![image](https://github.com/vandot5647/valorant_yolov4_arduino_AI/assets/95358566/cf470ef9-141e-49a4-901a-2064d248c004)
 
 

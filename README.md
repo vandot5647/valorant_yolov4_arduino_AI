@@ -6,12 +6,10 @@ Project ini menunjukkan bagaimana YOLOv4 (OpenCV + CUDA) bisa berjalan real-time
 ________________________________________
 Berbeda dengan YOLOv5 (PyTorch) yang hanya stabil di kisaran ~50 FPS, implementasi ini membuktikan bahwa optimasi tepat dapat membuat CV lebih responsif di dunia game.
 Kenapa Menarik?
-
 •	Bukan sekadar tugas kampus — project ini terus dikembangkan, tidak berhenti hanya sekali pakai.
-
 •	CV + Game = kombinasi seru — belajar deteksi objek sambil melihat dampaknya langsung ke gameplay.
-
 •	Mendorong upgrade skill — dari basic code hingga pipeline yang lebih layak dipakai individu.
+
 •	Edukasi & referensi — walau tidak saya sebarkan ke publik/awam, project ini bisa jadi gambaran bagaimana CV dapat digunakan di dunia game.
 ________________________________________
 Catatan

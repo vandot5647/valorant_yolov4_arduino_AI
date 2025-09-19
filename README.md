@@ -11,7 +11,7 @@ Berbeda dengan YOLOv5 (PyTorch) yang hanya stabil di kisaran ~50 FPS, implementa
 
 Kenapa Menarik?
 
-•	Bukan sekadar tugas kampus — project ini terus dikembangkan, tidak berhenti hanya sekali pakai.
+•	Bukan tugas kampus — project ini terus dikembangkan, tidak berhenti hanya sekali pakai.
 
 •	CV + Game = kombinasi seru — belajar deteksi objek sambil melihat dampaknya langsung ke gameplay.
 
@@ -36,7 +36,7 @@ Unlike YOLOv5 (PyTorch), which remains stable at around ~50 FPS, this implementa
 ________________________________________
 Why It’s Interesting
 
-•	Not just a college assignment — this project keeps evolving, not a one-off.
+•	Not a campus assignment — this project keeps evolving, not a one-off.
 
 •	CV + Gaming = exciting combo — learn object detection while seeing the direct impact on gameplay.
 
